@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://boathousegrocerystore.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://boathousegrocerystore.ca/collections/appeasers.atom"/>
+  <title>Boathouse Grocery Store</title>
+  <updated>2021-05-29T11:54:17-04:00</updated>
+  <author>
+    <name>Boathouse Grocery Store</name>
+  </author>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507337130097</id>
+    <published>2021-05-29T11:54:17-04:00</published>
+    <updated>2021-05-29T11:54:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/copy-of-jalapeno-popper"/>
+    <title>Shrimp Skewers - Herb &amp; Garlic</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2111.jpg?v=1592256057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>20 Shrimp per package</strong></p>
+<p>4x5 herb &amp; garlic shrimp skewers</p>
+<p>Cooking Method: BBQ <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507337130097</id>
+      <title>5pk Case</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4520037875825</id>
+    <published>2020-06-22T19:09:43-04:00</published>
+    <updated>2020-06-22T19:09:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/copy-of-shrimp-skewers-herb-garlic"/>
+    <title>Black Tiger Shrimp Frozen</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Black Tiger Shrimp 400gram bag frozen, Case 5 x 400gram bags</strong></p>
+<p>Cooking Method: BBQ or Sauce<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4520037875825</id>
+      <title>5pk Case</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507454963825</id>
+    <published>2020-06-06T18:38:15-04:00</published>
+    <updated>2020-06-06T18:38:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/mozzarella-sticks"/>
+    <title>McCains Mozzarella Sticks</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2100.jpg?v=1592254250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">5lb case<br>
+</div>
+<div class="fsProductField__info__description"><br></div>
+<div class="fsProductField__info__description">Cooking Method: Oven or deep fry</div>
+</div>
+<div class="fsProductField__fields"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507454963825</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4502768222321</id>
+    <published>2020-06-01T21:10:09-04:00</published>
+    <updated>2020-06-01T21:10:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/coconut-shrimp"/>
+    <title>Coconut Shrimp - 2lb box</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/iStock-132052526_720x_5cb2f00f-90c3-4c36-838f-a52baa1b87f8.jpg?v=1591060368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="h4">Coconut Shrimp 2lb box $23</h3>
+<div class="rte-setting">
+<p>Lightly battered shrimp with coconut.  Ready for deep fryer or oven.  </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4502768222321</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4502728179825</id>
+    <published>2020-06-01T20:27:34-04:00</published>
+    <updated>2020-06-01T20:27:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/jalapeno-popper-case"/>
+    <title>Jalapeno Popper</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2009.jpg?v=1591058537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cream Cheese Breaded Wild Chiles</strong></p>
+<p>31 pieces per 2.5lb bag</p>
+<p>Goes well with Ranch or Creamy DillB </p>
+<p>Cooking Method: Deep Fry or Oven Bake </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4502728179825</id>
+      <title>5lb Case</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

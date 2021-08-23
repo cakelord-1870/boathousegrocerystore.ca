@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://boathousegrocerystore.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://boathousegrocerystore.ca/collections/sides.atom"/>
+  <title>Boathouse Grocery Store</title>
+  <updated>2020-06-22T19:18:59-04:00</updated>
+  <author>
+    <name>Boathouse Grocery Store</name>
+  </author>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4520041644145</id>
+    <published>2020-06-22T19:18:59-04:00</published>
+    <updated>2020-06-22T19:18:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/veggie-burgers-1"/>
+    <title>Veggie Burgers</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<div class="fsProductField__fields">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">24 four oz veggie burgers frozen</div>
+<div class="fsProductField__info__description"></div>
+<div class="fsProductField__info__description">Cooking method: BBQ, Saute or Oven</div>
+<div class="fsProductField__info__description"><br></div>
+</div>
+</div>
+<span style="font-size: 1.4em;"><strong><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;"></span></strong></span><br>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4520041644145</id>
+      <title>1 Case</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507441692785</id>
+    <published>2020-06-06T17:59:53-04:00</published>
+    <updated>2020-06-06T17:59:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/mccains-sweet-potato-fry"/>
+    <title>McCains Sweet Potato Fry</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2108.jpg?v=1592254334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.95 - 47.95
+            <a href="https://boathousegrocerystore.ca/products/mccains-sweet-potato-fry">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<div class="fsProductField__fields">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">2.5lb bag of sweet potato plank fries</div>
+<div class="fsProductField__info__description">Bag - $8.95 ($2.02 per 9oz portion)</div>
+<div class="fsProductField__info__description">Case - 15lb ($1.80 per 9oz portion)</div>
+</div>
+</div>
+</div>
+<div class="fsProductField__fields">Cooking Method: Dry fry or oven</div>
+<br>
+</div>
+</div>
+</div>
+</div>
+</div>
+<span style="font-size: 1.4em;"><strong><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;"></span></strong></span><br>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507441692785</id>
+      <title>Bag - 2.5lb</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507441692785</id>
+      <title>Case - 6 bags</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507441397873</id>
+    <published>2020-06-06T17:56:43-04:00</published>
+    <updated>2020-06-06T17:56:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/mccains-7-16-premium-fry"/>
+    <title>McCains 7/16 Premium Fry</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2103.jpg?v=1592254067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95 - 42.95
+            <a href="https://boathousegrocerystore.ca/products/mccains-7-16-premium-fry">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<div class="fsProductField__fields">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">Premium lightly coated potato fry<br>
+</div>
+<div class="fsProductField__info__description">Bag - 4.5lbs ($.99 per 9oz portion)</div>
+<div class="fsProductField__info__description">Case - 27lb ($.89 per 9oz portion)</div>
+</div>
+<div class="fsProductField__fields">Cooking Method: Dry fry or oven</div>
+<br>
+</div>
+</div>
+</div>
+</div>
+</div>
+<span style="font-size: 1.4em;"><strong><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;"></span></strong></span><br>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507441397873</id>
+      <title>Bag - 4.5lb</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507441397873</id>
+      <title>Case - 6 bags</title>
+      <s:price currency="CAD">42.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507439497329</id>
+    <published>2020-06-06T17:51:28-04:00</published>
+    <updated>2020-06-06T17:51:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/california-mixed-vegetables"/>
+    <title>California Mixed Vegetables</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2102.jpg?v=1592253679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95 - 44.95
+            <a href="https://boathousegrocerystore.ca/products/california-mixed-vegetables">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<div class="fsProductField__fields">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">California Mixed Vegetables Frozen mix of carrots, cauliflower, and broccoli.</div>
+<div class="fsProductField__info__description">Bag, 4.42lbs</div>
+</div>
+<div class="fsProductField__fields">Cooking Method: Steam or oven</div>
+<br>
+</div>
+</div>
+</div>
+</div>
+</div>
+<span style="font-size: 1.4em;"><strong><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;"></span></strong></span><br>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507439497329</id>
+      <title>Bag - 4.42lb</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507439497329</id>
+      <title>Case - 6 bags</title>
+      <s:price currency="CAD">44.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507435827313</id>
+    <published>2020-06-06T17:45:14-04:00</published>
+    <updated>2020-06-06T17:45:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/veggie-burgers"/>
+    <title>McCain&apos;s Potato Wedges</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_1808.jpg?v=1591545918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.95 - 56.95
+            <a href="https://boathousegrocerystore.ca/products/veggie-burgers">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<div class="fsProductField__fields">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">4lb bag of McCain’s five spiced potato wedges</div>
+<div class="fsProductField__info__description"></div>
+<div class="fsProductField__info__description">Cooking Method: Oven or deep fry</div>
+</div>
+</div>
+</div>
+</div>
+<span style="font-size: 1.4em;"><strong><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;"></span></strong></span><br>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507435827313</id>
+      <title>Bag - 4lb</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507435827313</id>
+      <title>Case - 24lb</title>
+      <s:price currency="CAD">56.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

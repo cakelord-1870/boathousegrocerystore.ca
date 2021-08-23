@@ -1,0 +1,1099 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://boathousegrocerystore.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://boathousegrocerystore.ca/collections/all.atom"/>
+  <title>Boathouse Grocery Store</title>
+  <updated>2021-05-29T11:54:17-04:00</updated>
+  <author>
+    <name>Boathouse Grocery Store</name>
+  </author>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507337130097</id>
+    <published>2021-05-29T11:54:17-04:00</published>
+    <updated>2021-05-29T11:54:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/copy-of-jalapeno-popper"/>
+    <title>Shrimp Skewers - Herb &amp; Garlic</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2111.jpg?v=1592256057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>20 Shrimp per package</strong></p>
+<p>4x5 herb &amp; garlic shrimp skewers</p>
+<p>Cooking Method: BBQ <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507337130097</id>
+      <title>5pk Case</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4520041644145</id>
+    <published>2020-06-22T19:18:59-04:00</published>
+    <updated>2020-06-22T19:18:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/veggie-burgers-1"/>
+    <title>Veggie Burgers</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<div class="fsProductField__fields">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">24 four oz veggie burgers frozen</div>
+<div class="fsProductField__info__description"></div>
+<div class="fsProductField__info__description">Cooking method: BBQ, Saute or Oven</div>
+<div class="fsProductField__info__description"><br></div>
+</div>
+</div>
+<span style="font-size: 1.4em;"><strong><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;"></span></strong></span><br>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4520041644145</id>
+      <title>1 Case</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4520037875825</id>
+    <published>2020-06-22T19:09:43-04:00</published>
+    <updated>2020-06-22T19:09:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/copy-of-shrimp-skewers-herb-garlic"/>
+    <title>Black Tiger Shrimp Frozen</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Black Tiger Shrimp 400gram bag frozen, Case 5 x 400gram bags</strong></p>
+<p>Cooking Method: BBQ or Sauce<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4520037875825</id>
+      <title>5pk Case</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4514606219377</id>
+    <published>2020-06-14T21:28:10-04:00</published>
+    <updated>2020-06-14T21:28:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/bacon-smoked"/>
+    <title>Bacon - Smoked</title>
+    <s:type></s:type>
+    <s:vendor>Boathouse Grocery Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/image_b58834c8-b130-4b27-a6d1-82e27e10b884.jpg?v=1592184504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boathouse Grocery Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>11lb Smoked Fresh Bacon</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4514606219377</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4508194144369</id>
+    <published>2020-06-07T19:56:21-04:00</published>
+    <updated>2020-06-07T19:56:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/igloo-50qt-cooler"/>
+    <title>Igloo 50qt Cooler</title>
+    <s:type></s:type>
+    <s:vendor>Boathouse Grocery Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/image_2a37cfd9-9a83-435a-95cc-8448d4ff93f9.jpg?v=1591574184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boathouse Grocery Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4508194144369</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507459813489</id>
+    <published>2020-06-06T18:53:51-04:00</published>
+    <updated>2020-06-06T18:53:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/striploin-steak-canadian-prime"/>
+    <title>Striploin Steak AAA Center Cut 10oz</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_1585.jpg?v=1591536593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Four 10oz AAA Striploin Steaks - Frozen individually</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507459813489</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507454963825</id>
+    <published>2020-06-06T18:38:15-04:00</published>
+    <updated>2020-06-06T18:38:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/mozzarella-sticks"/>
+    <title>McCains Mozzarella Sticks</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2100.jpg?v=1592254250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">5lb case<br>
+</div>
+<div class="fsProductField__info__description"><br></div>
+<div class="fsProductField__info__description">Cooking Method: Oven or deep fry</div>
+</div>
+<div class="fsProductField__fields"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507454963825</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507454505073</id>
+    <published>2020-06-06T18:37:06-04:00</published>
+    <updated>2020-06-06T18:37:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/brioche-buns"/>
+    <title>Brioche Buns</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2096.jpg?v=1592253331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">Pack of 10 buns </div>
+</div>
+<div class="fsProductField__fields"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507454505073</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507441692785</id>
+    <published>2020-06-06T17:59:53-04:00</published>
+    <updated>2020-06-06T17:59:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/mccains-sweet-potato-fry"/>
+    <title>McCains Sweet Potato Fry</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2108.jpg?v=1592254334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.95 - 47.95
+            <a href="https://boathousegrocerystore.ca/products/mccains-sweet-potato-fry">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<div class="fsProductField__fields">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">2.5lb bag of sweet potato plank fries</div>
+<div class="fsProductField__info__description">Bag - $8.95 ($2.02 per 9oz portion)</div>
+<div class="fsProductField__info__description">Case - 15lb ($1.80 per 9oz portion)</div>
+</div>
+</div>
+</div>
+<div class="fsProductField__fields">Cooking Method: Dry fry or oven</div>
+<br>
+</div>
+</div>
+</div>
+</div>
+</div>
+<span style="font-size: 1.4em;"><strong><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;"></span></strong></span><br>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507441692785</id>
+      <title>Bag - 2.5lb</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507441692785</id>
+      <title>Case - 6 bags</title>
+      <s:price currency="CAD">47.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507441397873</id>
+    <published>2020-06-06T17:56:43-04:00</published>
+    <updated>2020-06-06T17:56:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/mccains-7-16-premium-fry"/>
+    <title>McCains 7/16 Premium Fry</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2103.jpg?v=1592254067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95 - 42.95
+            <a href="https://boathousegrocerystore.ca/products/mccains-7-16-premium-fry">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<div class="fsProductField__fields">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">Premium lightly coated potato fry<br>
+</div>
+<div class="fsProductField__info__description">Bag - 4.5lbs ($.99 per 9oz portion)</div>
+<div class="fsProductField__info__description">Case - 27lb ($.89 per 9oz portion)</div>
+</div>
+<div class="fsProductField__fields">Cooking Method: Dry fry or oven</div>
+<br>
+</div>
+</div>
+</div>
+</div>
+</div>
+<span style="font-size: 1.4em;"><strong><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;"></span></strong></span><br>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507441397873</id>
+      <title>Bag - 4.5lb</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507441397873</id>
+      <title>Case - 6 bags</title>
+      <s:price currency="CAD">42.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507439497329</id>
+    <published>2020-06-06T17:51:28-04:00</published>
+    <updated>2020-06-06T17:51:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/california-mixed-vegetables"/>
+    <title>California Mixed Vegetables</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2102.jpg?v=1592253679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95 - 44.95
+            <a href="https://boathousegrocerystore.ca/products/california-mixed-vegetables">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<div class="fsProductField__fields">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">California Mixed Vegetables Frozen mix of carrots, cauliflower, and broccoli.</div>
+<div class="fsProductField__info__description">Bag, 4.42lbs</div>
+</div>
+<div class="fsProductField__fields">Cooking Method: Steam or oven</div>
+<br>
+</div>
+</div>
+</div>
+</div>
+</div>
+<span style="font-size: 1.4em;"><strong><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;"></span></strong></span><br>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507439497329</id>
+      <title>Bag - 4.42lb</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507439497329</id>
+      <title>Case - 6 bags</title>
+      <s:price currency="CAD">44.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507435827313</id>
+    <published>2020-06-06T17:45:14-04:00</published>
+    <updated>2020-06-06T17:45:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/veggie-burgers"/>
+    <title>McCain&apos;s Potato Wedges</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_1808.jpg?v=1591545918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.95 - 56.95
+            <a href="https://boathousegrocerystore.ca/products/veggie-burgers">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<div class="fsProductField__fields">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">4lb bag of McCain’s five spiced potato wedges</div>
+<div class="fsProductField__info__description"></div>
+<div class="fsProductField__info__description">Cooking Method: Oven or deep fry</div>
+</div>
+</div>
+</div>
+</div>
+<span style="font-size: 1.4em;"><strong><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;"></span></strong></span><br>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507435827313</id>
+      <title>Bag - 4lb</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507435827313</id>
+      <title>Case - 24lb</title>
+      <s:price currency="CAD">56.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507434287217</id>
+    <published>2020-06-06T17:36:30-04:00</published>
+    <updated>2020-06-06T17:36:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/striploin-steaks"/>
+    <title>Beef Burgers 6oz</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2095.jpg?v=1592253082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">
+<div class="fsProductField__fields">
+<meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">30 six oz burgers frozen</div>
+<div class="fsProductField__info__description"></div>
+<div class="fsProductField__info__description">Cooking method: BBQ, Saute or Oven</div>
+<div class="fsProductField__info__description"><br></div>
+</div>
+</div>
+<span style="font-size: 1.4em;"><strong><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;"></span></strong></span><br>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507434287217</id>
+      <title>1 Case</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507433369713</id>
+    <published>2020-06-06T17:34:52-04:00</published>
+    <updated>2020-06-06T17:34:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/peameal-bacon"/>
+    <title>Peameal Bacon</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_1724.jpg?v=1591536150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">11lb case, 7mm thick slices, locally sourced. Frozen </div>
+</div>
+<div class="fsProductField__fields"></div>
+<p>Cooking Method: BBQ, Saute or Oven <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507433369713</id>
+      <title>10lb Case</title>
+      <s:price currency="CAD">64.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507431370865</id>
+    <published>2020-06-06T17:30:31-04:00</published>
+    <updated>2020-06-06T17:30:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/sausage-itailian-mild"/>
+    <title>Sausage Itailian Mild</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/iStock-485488884.jpg?v=1591483844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>40.43 sausages - 4.1oz each avg size.  Requires 1-2 thaw to separate into smaller bags </p>
+<p>Cooking Method: BBQ, Saute or Oven <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507431370865</id>
+      <title>10lb Case</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507427864689</id>
+    <published>2020-06-06T17:24:45-04:00</published>
+    <updated>2020-06-06T17:24:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/chicken-thighs"/>
+    <title>Chicken Thighs</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2106.jpg?v=1592253744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Chicken Thighs 8.84lbs of individually frozen 5-6oz chicken thighs</span></p>
+<p>Cooking Method: Deep fry, oven or BBQ<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507427864689</id>
+      <title>8.84 Case</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507416133745</id>
+    <published>2020-06-06T17:06:41-04:00</published>
+    <updated>2020-06-06T17:06:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/chicken-supreme"/>
+    <title>Chicken Supreme</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2123.jpg?v=1592254764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1/2 Pound Premium Chicken Breast, Skin on and wing bone attached. </p>
+<p>Great for entree chicken entrees &amp; stuffing<br></p>
+<p>17-18 per case ($3.71 per piece)</p>
+<p>Cooking Method: Oven or BBQ<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507416133745</id>
+      <title>Case 17-18pc</title>
+      <s:price currency="CAD">64.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507412496497</id>
+    <published>2020-06-06T17:00:40-04:00</published>
+    <updated>2020-06-06T17:00:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/chicken-wings"/>
+    <title>Chicken WIngs</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2107.jpg?v=1592253915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            129.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Breaded 8-9 chicken wings per pound IQF<br></p>
+<p>Cooking Method: Deep fry, oven or BBQ<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507412496497</id>
+      <title>22.10lb Case split into four bags</title>
+      <s:price currency="CAD">129.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507358298225</id>
+    <published>2020-06-06T15:24:49-04:00</published>
+    <updated>2020-06-06T15:24:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/salmon-atlantic"/>
+    <title>Salmon Atlantic 6oz Frz</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2118.jpg?v=1592255697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            149.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6oz individually wrapped and frozen<br></p>
+<p>Cooking Method: BBQ, Saute, Oven </p>
+<p>Case - 26-27 per case ($5.66 per 6oz piece)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507358298225</id>
+      <title>Case 10lb</title>
+      <s:price currency="CAD">149.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507346862193</id>
+    <published>2020-06-06T15:16:10-04:00</published>
+    <updated>2020-06-06T15:16:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/salmon-norweigan-deep-water"/>
+    <title>Salmon - Norweigan Deep Water</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2042.jpg?v=1591545455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6oz individually wrapped and frozen<br></p>
+<p>Cooking Method: BBQ, Saute, Oven <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507346862193</id>
+      <title>Case 10lb</title>
+      <s:price currency="CAD">175.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507342897265</id>
+    <published>2020-06-06T15:06:40-04:00</published>
+    <updated>2020-06-06T15:06:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/black-tiger-shrimp"/>
+    <title>Blue Cod Thin Filets</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2094.jpg?v=1592253241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4-6oz individually frozen  thin cod filets </p>
+<p>Cooking Method: Saute or Oven </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507342897265</id>
+      <title>10lb Case</title>
+      <s:price currency="CAD">64.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507281522801</id>
+    <published>2020-06-06T13:44:42-04:00</published>
+    <updated>2020-06-06T13:44:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/salmon-assorted-meat-box"/>
+    <title>Salmon Assorted Meat Box</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2114.jpg?v=1592255495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>6x 6oz Atlantic salmon, 13x chicken breast, 2lbs bacon</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507281522801</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507279917169</id>
+    <published>2020-06-06T13:41:33-04:00</published>
+    <updated>2020-06-06T13:41:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/pork-tenderloin-assorted-meat-box-best-value"/>
+    <title>Pork Tenderloin Assorted Meat Box * BEST VALUE *</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2109.jpg?v=1592255162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>1x pork tenderloin, 5x sausage, 10x burgers, 13x chicken breast, 2lbs smoked bacon</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507279917169</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4503952064625</id>
+    <published>2020-06-02T21:32:46-04:00</published>
+    <updated>2020-06-02T21:32:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/steak-box-grill-sizzle"/>
+    <title>Steak Box - Grill &amp; Sizzle</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_1586.jpg?v=1591148058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>4x 10oz Canadian Prime Striploin 13x chicken breast 4lbs bacon</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4503952064625</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4503949213809</id>
+    <published>2020-06-02T21:28:04-04:00</published>
+    <updated>2020-06-02T21:28:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/breakfast-box"/>
+    <title>Breakfast Box</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_1882.jpg?v=1591147707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>8 breakfast sausages, 2lbs bacon, 4 pieces of peameal bacon, 2.5lbs hash browns, 12 large eggs, 12 English muffins</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4503949213809</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://boathousegrocerystore.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://boathousegrocerystore.ca/collections/chicken.atom"/>
+  <title>Boathouse Grocery Store</title>
+  <updated>2020-06-06T17:24:45-04:00</updated>
+  <author>
+    <name>Boathouse Grocery Store</name>
+  </author>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507427864689</id>
+    <published>2020-06-06T17:24:45-04:00</published>
+    <updated>2020-06-06T17:24:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/chicken-thighs"/>
+    <title>Chicken Thighs</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2106.jpg?v=1592253744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Chicken Thighs 8.84lbs of individually frozen 5-6oz chicken thighs</span></p>
+<p>Cooking Method: Deep fry, oven or BBQ<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507427864689</id>
+      <title>8.84 Case</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507416133745</id>
+    <published>2020-06-06T17:06:41-04:00</published>
+    <updated>2020-06-06T17:06:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/chicken-supreme"/>
+    <title>Chicken Supreme</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2123.jpg?v=1592254764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1/2 Pound Premium Chicken Breast, Skin on and wing bone attached. </p>
+<p>Great for entree chicken entrees &amp; stuffing<br></p>
+<p>17-18 per case ($3.71 per piece)</p>
+<p>Cooking Method: Oven or BBQ<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507416133745</id>
+      <title>Case 17-18pc</title>
+      <s:price currency="CAD">64.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507412496497</id>
+    <published>2020-06-06T17:00:40-04:00</published>
+    <updated>2020-06-06T17:00:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/chicken-wings"/>
+    <title>Chicken WIngs</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2107.jpg?v=1592253915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            129.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Breaded 8-9 chicken wings per pound IQF<br></p>
+<p>Cooking Method: Deep fry, oven or BBQ<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507412496497</id>
+      <title>22.10lb Case split into four bags</title>
+      <s:price currency="CAD">129.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4503948165233</id>
+    <published>2020-06-02T21:20:11-04:00</published>
+    <updated>2020-06-02T21:20:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/surf-turf-ba"/>
+    <title>Surf &amp; Turf Bag</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_1809.jpg?v=1591147422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>2x 8oz Chicken Supreme, One pound of shrimp, 2x 10oz Canadian Prime Striploin, 2x 6oz Norwegian Salmon</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4503948165233</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4483929735281</id>
+    <published>2020-05-17T18:02:17-04:00</published>
+    <updated>2020-05-17T18:02:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/chicken-breast-5oz-iqf"/>
+    <title>Chicken breast 5oz IQF - 8.84lb case</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/image.jpg?v=1589752940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lightly seasoned frozen chicken breast 5 ounce IQF</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4483929735281</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.95</s:price>
+      <s:sku>999</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

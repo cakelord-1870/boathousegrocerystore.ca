@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://boathousegrocerystore.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://boathousegrocerystore.ca/collections/pork.atom"/>
+  <title>Boathouse Grocery Store</title>
+  <updated>2020-06-14T21:28:10-04:00</updated>
+  <author>
+    <name>Boathouse Grocery Store</name>
+  </author>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4514606219377</id>
+    <published>2020-06-14T21:28:10-04:00</published>
+    <updated>2020-06-14T21:28:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/bacon-smoked"/>
+    <title>Bacon - Smoked</title>
+    <s:type></s:type>
+    <s:vendor>Boathouse Grocery Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/image_b58834c8-b130-4b27-a6d1-82e27e10b884.jpg?v=1592184504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boathouse Grocery Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>11lb Smoked Fresh Bacon</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4514606219377</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507433369713</id>
+    <published>2020-06-06T17:34:52-04:00</published>
+    <updated>2020-06-06T17:34:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/peameal-bacon"/>
+    <title>Peameal Bacon</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_1724.jpg?v=1591536150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="fsProductField__info">
+<div class="fsProductField__info__description">11lb case, 7mm thick slices, locally sourced. Frozen </div>
+</div>
+<div class="fsProductField__fields"></div>
+<p>Cooking Method: BBQ, Saute or Oven <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507433369713</id>
+      <title>10lb Case</title>
+      <s:price currency="CAD">64.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://boathousegrocerystore.ca/products/4507279917169</id>
+    <published>2020-06-06T13:41:33-04:00</published>
+    <updated>2020-06-06T13:41:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://boathousegrocerystore.ca/products/pork-tenderloin-assorted-meat-box-best-value"/>
+    <title>Pork Tenderloin Assorted Meat Box * BEST VALUE *</title>
+    <s:type></s:type>
+    <s:vendor>Kirk McNabb</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/0006/8465/products/IMG_2109.jpg?v=1592255162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirk McNabb<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>1x pork tenderloin, 5x sausage, 10x burgers, 13x chicken breast, 2lbs smoked bacon</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://boathousegrocerystore.ca/products/4507279917169</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
